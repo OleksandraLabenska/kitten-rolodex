@@ -2,6 +2,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import {CardList} from './components/card-list/card-list.component';
+import "./App.css";
 
 
 class App extends Component {
